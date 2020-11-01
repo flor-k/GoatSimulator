@@ -1,4 +1,3 @@
-let boton1;
 let tuvieja = false;
 
 function setup() {
